@@ -34,6 +34,7 @@ const Footer = () => {
         <div className="pt-8">
           <div className="">
             <h2 className="text-2xl text-orange-600">Contact Us</h2>
+            <p>anisul islam</p>
           </div>
         </div>
         {/* fourth section */}
